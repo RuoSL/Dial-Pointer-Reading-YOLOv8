@@ -1,0 +1,119 @@
+[
+  {
+    "image": "DSCF0002.JPG",
+    "CENTER": [
+      623,
+      519
+    ],
+    "ZERO_PT": [
+      272,
+      684
+    ],
+    "RADIUS": 387.85,
+    "method": "manual_init"
+  },
+  {
+    "image": "DSCF0003.JPG",
+    "CENTER": [
+      623,
+      519
+    ],
+    "ZERO_PT": [
+      272,
+      684
+    ],
+    "RADIUS": 387.85,
+    "method": "propagated"
+  },
+  {
+    "image": "DSCF0004.JPG",
+    "CENTER": [
+      623,
+      519
+    ],
+    "ZERO_PT": [
+      272,
+      684
+    ],
+    "RADIUS": 387.85,
+    "method": "propagated"
+  },
+  {
+    "image": "DSCF0005.JPG",
+    "CENTER": [
+      623,
+      519
+    ],
+    "ZERO_PT": [
+      272,
+      684
+    ],
+    "RADIUS": 387.85,
+    "method": "propagated"
+  },
+  {
+    "image": "DSCF0006.JPG",
+    "CENTER": [
+      623,
+      519
+    ],
+    "ZERO_PT": [
+      272,
+      684
+    ],
+    "RADIUS": 387.85,
+    "method": "propagated"
+  },
+  {
+    "image": "DSCF0007.JPG",
+    "CENTER": [
+      623,
+      519
+    ],
+    "ZERO_PT": [
+      272,
+      684
+    ],
+    "RADIUS": 387.85,
+    "method": "propagated"
+  },
+  {
+    "image": "DSCF0008.JPG",
+    "CENTER": [
+      614,
+      521
+    ],
+    "ZERO_PT": [
+      269,
+      676
+    ],
+    "RADIUS": 378.22,
+    "method": "manual_update"
+  },
+  {
+    "image": "DSCF0009.JPG",
+    "CENTER": [
+      613,
+      509
+    ],
+    "ZERO_PT": [
+      266,
+      676
+    ],
+    "RADIUS": 385.09,
+    "method": "manual_update"
+  },
+  {
+    "image": "DSCF0010.JPG",
+    "CENTER": [
+      613,
+      509
+    ],
+    "ZERO_PT": [
+      266,
+      676
+    ],
+    "RADIUS": 385.09,
+    "method": "propagated"
+  }
+]
