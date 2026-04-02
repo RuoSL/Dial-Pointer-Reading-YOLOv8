@@ -1,6 +1,0 @@
-*.pt
-data/
-Results/
-.idea/
-Tesseract-OCR/
-__pycache__/
