@@ -37,3 +37,10 @@ Install with:
 pip install ultralytics torch opencv-python pandas numpy Pillow matplotlib tqdm pytesseract openpyxl
 ```
 
+## Visualization Example
+
+### Loss Curve
+![Training loss curve](Results/visuals/loss.png)
+
+### Dial Gauge Recognition Example
+![Dial gauge recognition example](Results/visuals/recognition_examples.png)
